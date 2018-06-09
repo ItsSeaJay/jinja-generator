@@ -1,0 +1,7 @@
+{
+  "base_url": "http://localhost/jinja-portfolio/_build/",
+  "analytics_id": "UA-XXXXX-Y",
+  "language": "en",
+  "build_dir": "_build",
+  "template_dir": "_templates"
+}
